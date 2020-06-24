@@ -78,7 +78,7 @@ variable "service_nodePort_https" {
   default = "32002"
 }
 
-variable "kube_namespace" {
+variable "namespace" {
   type = string
   default = "kube-system"
 }
