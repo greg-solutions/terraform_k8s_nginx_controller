@@ -1,4 +1,4 @@
-DEPRECATED MOVED TO https://registry.terraform.io/modules/terraform-iaac/nginx-controller/kubernetes/latest
+DEPRECATED MOVED TO https://registry.terraform.io/modules/terraform-iaac/nginx-controller/helm/latest
 ==========================================
 
 ###Terraform kubernetes module for provisioning Nginx Ingress Controller via Helm
